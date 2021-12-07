@@ -10,7 +10,7 @@ order: 4
 --:|:--
 📧 **Email** | ahyeonlog@gmail.com
 🐱**Github** | [https://github.com/ahyeonlog](https://github.com/ahyeonlog)
-🖍 **Github Blog** | [https://github.com/ahyeonlog](https://github.com/ahyeonlog)
+🖍 **Github Blog** | [https://ahyeonlog.github.io](https://ahyeonlog.github.io)
 📚 **Tistory Blog** | [https://ahyeonlog.tistory.com/](https://ahyeonlog.tistory.com/)
 📷 **Instagram** | [https://www.instagram.com/lemoncellow/](https://www.instagram.com/lemoncellow/)
 
@@ -20,8 +20,8 @@ order: 4
 
 ## 🛠️ Projects 프로젝트
 
-- [치타핏](https://github.com/ahyeonlog/posts/cheetahfit/)
-- [염염](https://github.com/ahyeonlog/posts/yumyum/)
+- [치타핏](https://ahyeonlog.github.io/posts/cheetahfit/)
+- [염염](https://ahyeonlog.github.io/posts/yumyum/)
 
 ## 🏆 Awards 수상 경력
 
